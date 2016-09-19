@@ -1,0 +1,42 @@
+﻿[
+  {
+    "productId": 1,
+    "productName": "Iphone 6",
+    "productCode": "APL-0011",
+    "releaseDate": "March 19, 2016",
+    "description": "Currently own one.",
+    "price": 699.99
+  },
+  {
+    "productId": 2,
+    "productName": "iPad Mini",
+    "productCode": "APL-0023",
+    "releaseDate": "March 18, 2015",
+    "description": "I own one and I love it.",
+    "price": 299.99
+  },
+  {
+    "productId": 5,
+    "productName": "2016 Audi A4",
+    "productCode": "AUD-0048",
+    "releaseDate": "May 21, 2015",
+    "description": "Maybe one day i'll drive one",
+    "price": 35000
+  },
+  {
+    "productId": 8,
+    "productName": "ROKU",
+    "productCode": "ROK-0022",
+    "releaseDate": "May 15, 2011",
+    "description": "I love it",
+    "price": 89.99
+  },
+  {
+    "productId": 10,
+    "productName": "Play Station 4",
+    "productCode": "PS4-0042",
+    "releaseDate": "October 15, 2013",
+    "description": "Maybe one day i'll get to own one and play Fifa",
+    "price": 199.95
+  }
+]
